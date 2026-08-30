@@ -1,0 +1,11 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 1080, "h": 1080, "title": "Post carre 1080x1080" },
+    { "file": "Story.dc.html", "x": 1200, "y": 0, "w": 1080, "h": 1920, "title": "Story 1080x1920" },
+    { "file": "VarianteB.dc.html", "x": 2400, "y": 0, "w": 1080, "h": 1080, "title": "Variante B - jaune marche" }
+  ],
+  "annotations": [
+    { "id": "brief", "x": 0, "y": -190, "w": 700, "text": "Promo ALL MARKET — 1 carton plantain jaune + 5 kg maquereau OyaOya + 3 paquets d'épinards = 99 $.\nÀ remplacer : [TÉLÉPHONE / WHATSAPP] et [DATE] de fin.\nValeur régulière 117,50 $ calculée depuis votre grille de prix (62 $ + 45 $ + 10,50 $) — à confirmer." }
+  ],
+  "launch": { "view": "canvas" }
+}
